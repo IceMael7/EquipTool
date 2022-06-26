@@ -1,0 +1,980 @@
+game.StarterGui:SetCore("SendNotification", {
+	Title = "IMPORTANT !";
+	Text = "Wait 15 second and validate";
+	Icon = "";
+	Duration = "2";
+})
+local args = {
+	[1] = "ClearAllTools"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Clea28rTool28s"):FireServer(unpack(args))
+wait()
+local args = {
+	[1] = "PickingTools",
+	[2] = "Iphone"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Ipad"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Camcorder"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Laptop"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Paperbag"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "ShoppingCart"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Sign"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Book"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Envelope"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Paper"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "ClipBoard"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "BabyBoy"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "BabyGirl"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "BabyBottle"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Stroller"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "BabyHippo"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "BabyMonkey"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Wagon"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Stretcher"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Stethoscope"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Syringe"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "SyringeZ"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Ear"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Toothbrush"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Hairbrush"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Trophy"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "CarryOn"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "PlaneTicket"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "SWATShield"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Cuffs"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Taser"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Glock"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "GlockBrown"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Shotgun"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Assault"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Sniper"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Bomb"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "DuffleBagMoney"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "DuffleBag"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Money"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "CreditCardBoy"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "CreditCardGirl"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Binocks"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "FlashLight"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Marshmello"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "SleepingBag"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Umbrella"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Tent"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Balloon"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Present"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Roses"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Microphone"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Guitar"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "ElectricGuitar"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Axe"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Hammer"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Wrench"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "FireX"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Cones"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Ladder"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "LawnMower"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Shovel"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Bucket"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "WateringCan"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Box"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Vacuum"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Mop"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "SoccerBall"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Basketball"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Weights"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "TakeOut"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "FoodTray"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "TakeOutHappyBurger"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "TakeOutPizza"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "BreakfestPlate1"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "BurgerTray"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "LunchPlate1"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "DinnerPlate1"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "DinnerPlate2"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Apple"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Banana"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "AppleGreen"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Popcorn"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Chips"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Hamburger"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "HotDog"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Burrito"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Taco"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Sandwich"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Guda"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Pizza"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Pretzel"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Waffle"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "MuffinBlueBerry"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "YummyBread"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "CookieChip"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Donut"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "CakePink"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Reeses"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Hershey"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Icecream"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "ShakeChocolate"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "FrapStrawberry"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Mocha"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "FrapMint"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "Bloxaide"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+
+local args = {
+	[1] = "PickingTools",
+	[2] = "BottledWater"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
+
+wait()
+args = {
+	[1] = "PickingTools",
+	[2] = "Milk"
+}
+
+game:GetService("ReplicatedStorage").ZZZ.ZZ.Z:FindFirstChild("28Too28l"):InvokeServer(unpack(args))
